@@ -2,6 +2,7 @@
 - 👀 I'm hiring:
 - 🔹C/C++ developers
 - 🔹Erlang developers
+- 🔹iOS developers
 - 📧 Write to me!
     - https://t.me/kseniasalikova
     - kseniya.salikova@eltex-co.ru
